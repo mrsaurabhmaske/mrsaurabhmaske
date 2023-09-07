@@ -1,6 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on a React.js Project (includes Express.js, MongoDB)<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning databases like MongoDB & Firebase<br>💬 Ask me about Full Stack Web Development<br>⚡ Fun fact
-
+🔭 I’m currently working on a React.js Project (includes Express.js, MongoDB)<br>🔭 I’m currently working on a React.js Project (includes Express.js, MongoDB)
+👯 I’m looking to collaborate on exciting web development projects that challenge my skills and push the boundaries of what's possible on the web.
+🤝 I’m looking for help with optimizing database performance and scaling web applications to handle a high volume of users.
+🌱 I’m currently learning about databases like MongoDB and Firebase to enhance my expertise in data storage and retrieval.
+💬 Ask me about Full Stack Web Development, from front-end technologies like HTML, CSS, and JavaScript to back-end development with Node.js and Express.js. I'm also well-versed in database management, REST APIs, and deployment strategies.
+⚡ Fun fact: I can solve a Rubik's Cube in under two minutes!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-maske) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/mrsaurabhmaske) 
