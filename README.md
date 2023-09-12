@@ -5,7 +5,7 @@
 🌱 I’m currently learning about databases like MongoDB and Firebase to enhance my expertise in data storage and retrieval.<br>
 💬 Ask me about Full Stack Web Development, from front-end technologies like HTML, CSS, and JavaScript to back-end development with Node.js and Express.js. I'm also well-versed in database management, REST APIs, and deployment strategies.<br>
 ⚡ Fun fact: I can solve a Rubik's Cube in under two minutes!<br>
-🌐 Portfilio: <a href="mrsaurabhmaske.github.io">My Portfolio</a>
+🌐 Portfolio: <a href="mrsaurabhmaske.github.io" _target="blank">My Portfolio</a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-maske) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/mrsaurabhmaske) 
