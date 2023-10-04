@@ -27,6 +27,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mrsaurabhmaske&limit=5&theme=discord&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mrsaurabhmaske&icon=9&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mrsaurabhmaske&label=Checked%20out%20by&color=5&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
